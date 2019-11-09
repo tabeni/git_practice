@@ -1,0 +1,5 @@
+frame
+wheel
+tyre
+sadle
+handle
