@@ -1,5 +1,6 @@
-frame
-wheel
-tyre
-sadle
-handle
+frame 50000
+wheel 30000
+tyre 4000
+sadle 2000
+handle 2000
+compornent 50000
