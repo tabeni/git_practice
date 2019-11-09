@@ -1,2 +1,2 @@
-tyre
-oil
+tyre 8000
+oil 3000
